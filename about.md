@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About Emerald
+title: About Eric
 ---
 ## Nice to meet you!
 

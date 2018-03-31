@@ -125,7 +125,7 @@
 }
 
 #header {
-	text-align: center;
+  text-align: center;
   padding: 24px 0;
   position: relative;
   a {
@@ -150,11 +150,11 @@
     font-size: 30pt;
   }
   &:after {
-  	display: block;
+    display: block;
     content: '';
     width: 5rem;
     height: 1px;
-    margin: 23px auto;
+    margin: 20px auto 0px;
     background-color: lighten($text-color, 70%);
   }
 }

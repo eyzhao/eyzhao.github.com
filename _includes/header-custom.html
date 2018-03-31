@@ -1,21 +1,32 @@
 <header id="header">
-	<a href="{{ site.baseurl }}/">
+	<a href="/">
 		<img
                     src="{{ "/img/profile_photo.jpg" | prepend: site.baseurl | replace: '//', '/' }}"
                     alt="Profile" style='border-radius: 50%; height: 200px; width: 200px; max-height: 200px; max-width: 200px;'
                 >
 	  <div class='site-title'>Eric Zhao</div>
 	</a>
-
+        
         <div class='nav-links'>
-            <a href='{{ site.baseurl }}/about' class='nav-link'>
+            <a href='/about' class='nav-link'>
                 about
             </a>
-            <a href='{{ site.baseurl }}/cv' class='nav-link'>
+            <a href='/cv' class='nav-link'>
                 cv
             </a>
-            <a href='{{ site.baseurl }}/' class='nav-link'>
+            <a href='/' class='nav-link'>
                 blog
             </a>
         </div>
+
+        <div class='nav-links' style='margin-top: 1em'>
+            <a href='https://github.com/eyzhao' class='nav-link'>
+                <img src='img/github.svg' height=30 />
+            </a>
+            <a href='https://twitter.com/zhaoez' class='nav-link'>
+                <img src='img/twitter.svg' height=30/>
+            </a>
+        </div>
+
+
 </header>
