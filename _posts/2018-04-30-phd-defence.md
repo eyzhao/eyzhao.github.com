@@ -2,7 +2,7 @@
 title: Thesis Defence on May 7th, 2018
 ---
 
-### Details
+## Details
 
 My thesis defence is scheduled on May 7th, 2018 at 9:00 AM. It will take place at the Gordon & Leslie Diamond Healthcare Centre. For complete details, please see my [thesis defence programme](/media/thesis_defence_programme.pdf).
 
@@ -14,7 +14,7 @@ There is a no food or drink policy in the room, but drinks in containers with li
 
 Complete details, including my abstract and the names of examination committee members, can be found in the thesis defence programme: http://www.eyzhao.com/media/thesis_defence_programme.pdf
 
-### Summary of my Research
+## Summary of my Research
 
 Over the past five years, I have been analyzing cancer genomes to uncover new markers of treatment response and resistance. My goal is to unearth the clinical consequences of cancer's ability (or inability) to repair its own DNA. This involves developing and applying novel statistical and machine learning methods to find targetable biomarkers hidden in patterns of DNA mutation. I work within the BC Cancer Agency's innovative Personalized Oncogenomics Project (www.personalizedoncogenomics.org), which has been featured on CBC's "The Nature of Things" (http://www.cbc.ca/natureofthings/episodes/cracking-cancer).
 
