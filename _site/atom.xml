@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+ <title>Eric Zhao</title>
+ <link href="http://www.eyzhao.com/atom.xml" rel="self"/>
+ <id>http://www.eyzhao.com</id>
+ <updated>2018-09-11T14:56:23-07:00</updated>
+ <author>
+   <name>Eric Zhao</name>
+   <uri>http://www.eyzhao.com</uri>
+   <email>hello@eyzhao.com</email>
+ </author>
+
+ 
+
+ <entry>
+   <title>Mutation Signature Analysis in Individual Tumours</title>
+   <link href="http://www.eyzhao.com/mutation-signatures"/>
+   <id>http://www.eyzhao.com/mutation-signatures</id>
+   <updated>2018-08-11T00:00:00-07:00</updated>
+   <content type="html">
+</content>
+ </entry>
+
+ 
+
+ <entry>
+   <title>Thesis Defence on May 7th, 2018</title>
+   <link href="http://www.eyzhao.com/phd-defence"/>
+   <id>http://www.eyzhao.com/phd-defence</id>
+   <updated>2018-04-30T00:00:00-07:00</updated>
+   <content type="html">&lt;h2 id=&quot;details&quot;&gt;Details&lt;/h2&gt; &lt;p&gt;My thesis defence is scheduled on May 7th, 2018 at 9:00 AM. It will take place at the Gordon &amp;amp; Leslie Diamond Healthcare Centre. For complete details, please see my &lt;a href=&quot;/media/thesis_defence_programme.pdf&quot;&gt;thesis defence programme&lt;/a&gt;.&lt;/p&gt; &lt;p&gt;UBC Thesis Defences are open to the public. However, please note that &lt;strong&gt;latecomers will...</content>
+ </entry>
+
+ 
+
+</feed>
