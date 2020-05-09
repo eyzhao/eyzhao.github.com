@@ -4,12 +4,32 @@
  <title>Eric Zhao</title>
  <link href="http://www.eyzhao.com/atom.xml" rel="self"/>
  <id>http://www.eyzhao.com</id>
- <updated>2018-10-06T11:40:46-07:00</updated>
+ <updated>2020-05-09T10:52:26-07:00</updated>
  <author>
    <name>Eric Zhao</name>
    <uri>http://www.eyzhao.com</uri>
    <email>hello@eyzhao.com</email>
  </author>
+
+ 
+
+ <entry>
+   <title>Keeping up with scientific literature and my experience with SciReader.</title>
+   <link href="http://www.eyzhao.com/scientific-literature"/>
+   <id>http://www.eyzhao.com/scientific-literature</id>
+   <updated>2020-05-09T00:00:00-07:00</updated>
+   <content type="html">&lt;p&gt;The march of scientific progress waits for no-one. This is what makes what we do exciting, but also at times overwhelming. It has been rightly noted that &lt;a href=&quot;https://www.sciencemag.org/careers/2016/11/how-keep-scientific-literature&quot;&gt;keeping up with literature can be a bit of a chore, and even at times disheartening&lt;/a&gt;, if we find the exciting ideas...</content>
+ </entry>
+
+ 
+
+ <entry>
+   <title>Med Spring Gala Performances</title>
+   <link href="http://www.eyzhao.com/piano"/>
+   <id>http://www.eyzhao.com/piano</id>
+   <updated>2020-03-10T00:00:00-07:00</updated>
+   <content type="html">&lt;p&gt;I enjoy playing the piano, and have performed on a few occasions at the UBC Medicine Spring Gala. Here are the associated recordings.&lt;/p&gt; &lt;ul&gt; &lt;li&gt;&lt;a href=&quot;https://youtu.be/FFLoRvACv6k&quot;&gt;Trio in D Minor, Op. 49 no. 1, Mvt. I (Abridged) by Felix Mendelssohn,&lt;/a&gt; performed with Sabine Lague (on flute) and Santa Ono (on cello).&lt;/li&gt;...</content>
+ </entry>
 
  
 
